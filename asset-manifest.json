@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hack-the-culture-web/static/css/main.bd1eeac9.chunk.css",
+    "main.js": "/hack-the-culture-web/static/js/main.8f09044e.chunk.js",
+    "main.js.map": "/hack-the-culture-web/static/js/main.8f09044e.chunk.js.map",
+    "runtime-main.js": "/hack-the-culture-web/static/js/runtime-main.c40ad0dc.js",
+    "runtime-main.js.map": "/hack-the-culture-web/static/js/runtime-main.c40ad0dc.js.map",
+    "static/js/2.c54ce975.chunk.js": "/hack-the-culture-web/static/js/2.c54ce975.chunk.js",
+    "static/js/2.c54ce975.chunk.js.map": "/hack-the-culture-web/static/js/2.c54ce975.chunk.js.map",
+    "index.html": "/hack-the-culture-web/index.html",
+    "precache-manifest.5a6e8643473b5af75401b36092ec225c.js": "/hack-the-culture-web/precache-manifest.5a6e8643473b5af75401b36092ec225c.js",
+    "service-worker.js": "/hack-the-culture-web/service-worker.js",
+    "static/css/main.bd1eeac9.chunk.css.map": "/hack-the-culture-web/static/css/main.bd1eeac9.chunk.css.map",
+    "static/js/2.c54ce975.chunk.js.LICENSE.txt": "/hack-the-culture-web/static/js/2.c54ce975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40ad0dc.js",
+    "static/js/2.c54ce975.chunk.js",
+    "static/css/main.bd1eeac9.chunk.css",
+    "static/js/main.8f09044e.chunk.js"
+  ]
+}
