@@ -28,7 +28,7 @@ function Messenger() {
             <div>{message.text}</div>
           </div>)
       })}</div> 
-      <form className ="Messenger-input">
+      <form method='post' className ="Messenger-input" action="http://localhost:3000"> 
         <input type="text" id="message_input" className = "Messenger-input-text" />
         <button className = "Messenger-input-button"  onClick={onSend}>Send</button>
       </form>

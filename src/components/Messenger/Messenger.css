@@ -10,7 +10,7 @@
 }
 
 .Messenger-messages {
-  background-color: #9a9a9a;
+  background-color: #ffffff;
   padding-top: 2.5vh;
   width: 90%;
   height: 90vh;
@@ -35,6 +35,7 @@
 
 .Messenger-input-text {
   width: 80%;
+  height: 60%;
 }
 
 .Messenger-input-button {
